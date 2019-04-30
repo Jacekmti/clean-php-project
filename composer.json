@@ -1,0 +1,12 @@
+{
+  "require": {
+    "php": ">=7.1.0",
+    "phpunit/phpunit": "^7"
+  },
+
+  "autoload": {
+    "psr-4": {
+      "TDD\\": "code/TDD"
+    }
+  }
+}
